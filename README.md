@@ -1,2 +1,2 @@
 # Sudoku Solver
-Small program that checks whether a sudoku board is solvable or not, and then proceeds to solve it through the use of backtracking.
+Sudoku Solver with backtracking on a 9x9 grid.
